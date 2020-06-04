@@ -1,0 +1,21 @@
+<!--pages/zhiwei/zhiwei.wxml-->
+
+<import src="../../common/sj.wxml" />
+
+<view class="z">
+  <view class="x">工作地：全国</view>
+  <view class="x">驾照要求：不限</view>
+</view>
+<scroll-view scroll-y="false" class="v">
+<template is="wa" data="{{...waA}}"/>
+<template is="wa" data="{{...waB}}"/>  
+<template is="wa" data="{{...waC}}"/>
+<template is="wa" data="{{...waC}}"/>
+<template is="ws" data="{{...waA}}"/>
+<template is="ws" data="{{...waA}}"/>
+<template is="ws" data="{{...waB}}"/>   
+<template is="ws" data="{{...waC}}"/>
+</scroll-view>
+<view class="oo">
+<view class="pp">发布信息</view>
+</view>

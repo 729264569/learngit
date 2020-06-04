@@ -1,0 +1,50 @@
+<template name="zwms">
+  <view class="zwms">
+    <view class="zw">职位描述</view>
+    <view class="ms">
+      {{a}}
+      <view>联系我时说明在牛小二上看到的，上面司机靠谱。</view>
+    </view>
+  </view>
+  <view class="b"></view>
+</template>
+<template name="pfjs">
+  <view class="pf">
+    <text class="js">防骗警示</text>
+    <view>该信息由牛小二用户提供，客服审核。建议：</view>
+    <view>1、标记为【广告】信息，与平台无关，请卡友自行咨询</view>
+    <view>2、有收费一律不要前往！若产生纠纷，牛小二配合解决，概不负责</view>
+    <view>3、异地面试，一定确定好具体位置、薪资待遇方可前往，避免造成路费生活费损失</view>
+  </view>
+  <view class="b"></view>
+</template>
+<template name="xps">
+  <view class="pf">
+    <text class="js">小贴士</text>
+    <view>若电话无人接听，可尝试发短信或者加微信等待车主回复；关注牛小二招聘公众号，信息更新及时提醒，找工作先人一步。
+      <text class="xbs"> 点我回复1即可关注</text>
+    </view>
+  </view>
+  <view class="b"></view>
+</template>
+<template name="sd">
+  <view class="qsa"></view>
+  <view class="sd">
+  <view class="kkl">
+    <view class="imah">
+      <image class="image" src="../../images/wode/1.png"></image>
+      <view class="wz">举报</view>
+    </view>
+    <view class="imah">
+      <image class="image" src="../../images/wode/5.png"></image>
+      <view class="wz">转发</view>
+    </view>
+    </view>
+    <view class="gg">
+      <text class="bd">拨打电话</text>
+      <view class="wz">189****4999</view>
+    </view>
+  </view>
+
+
+</template>

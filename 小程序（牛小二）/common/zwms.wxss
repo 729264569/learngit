@@ -1,0 +1,88 @@
+.zwms {
+  padding: 15px;
+  width: 100%;
+}
+
+.zw {
+  font-weight: bold;
+  height: 30px;
+  line-height: 30px;
+}
+
+.ms {
+  color: #353333;
+  font-size: 15px;
+  width: 90%;
+}
+
+.b {
+  width: 100%;
+  height: 8px;
+  background: #f3e7e7;
+  position: relative;
+}
+
+.pf {
+  padding: 15px;
+  font-size: 15px;
+  color: #353333;
+}
+
+.js {
+  font-weight: bold;
+  height: 30px;
+  line-height: 30px;
+}
+
+.xbs {
+  color: #006efd;
+}
+
+.qsa {
+  width: 100%;
+  height: 70px;
+}
+
+.sd {
+  position: fixed;
+  background: #fff;
+  width: 100%;
+  height: 50px;
+  z-index: 999;
+  bottom: 0;
+  padding: 10px;
+}
+
+.imah {
+  width: 60px;
+  height: 50px;
+  text-align: center;
+  float: left;
+}
+
+.image {
+  width: 40px;
+  height: 30px;
+}
+
+.wz {
+  font-size: 10px;
+}
+
+.kkl {
+  width: 40%;
+}
+
+.gg {
+  width: 50%;
+  height: 50px;
+  line-height: 25px;
+  text-align: center;
+  background-color: #006efd;
+  float: right;
+  margin-right: 8%;
+}
+
+.bd {
+  color: #fff;
+}

@@ -1,0 +1,3 @@
+/* pages/bl/bd.wxss */
+@import "../../common/sj.wxss";
+@import "../../common/zwms.wxss";

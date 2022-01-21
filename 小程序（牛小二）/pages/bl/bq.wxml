@@ -1,8 +1,0 @@
-<!--pages/bl/bq.wxml-->
-<import src="../../common/sj.wxml" />
-<import src="../../common/zwms.wxml" />
-<template is="wr" data="{{...waC}}"></template>
-<template is="zwms" data="{{...zwms}}"></template>
-<template is="pfjs"></template>
-<template is="xps"></template>
-<template is="sd"></template>
